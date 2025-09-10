@@ -1,2 +1,4 @@
 # Python_guide
-Websites with basic to advanced Python content
+The file Python_guide.zip is a comprehensive resource for learning and referencing the Python programming language. Designed for both beginners and intermediate users, this guide covers fundamental and advanced concepts, including data structures, control flow, functions, object-oriented programming, exception handling, modules, and standard libraries. It also provides practical examples and best practices that facilitate understanding and applying Python in real-world projects, from task automation, data analysis, web development, to scripting and rapid prototyping.
+
+Thanks to its clear and detailed organization, this file is ideal as a study manual, quick reference, or support material for courses and workshops, incorporating relevant keywords such as Python, programming, tutorial, practical guide, code examples, software development, best practices, interactive learning. Its compressed format allows quick access to all contents in an organized manner, optimizing both learning and consultation experiences.
